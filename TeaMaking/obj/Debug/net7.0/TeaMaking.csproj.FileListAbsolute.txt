@@ -1,0 +1,15 @@
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.csproj.AssemblyReference.cache
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.AssemblyInfoInputs.cache
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.AssemblyInfo.cs
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.csproj.CoreCompileInputs.cache
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\bin\Debug\net7.0\TeaMaking.exe
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\bin\Debug\net7.0\TeaMaking.deps.json
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\bin\Debug\net7.0\TeaMaking.runtimeconfig.json
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\bin\Debug\net7.0\TeaMaking.dll
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\bin\Debug\net7.0\TeaMaking.pdb
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.dll
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\refint\TeaMaking.dll
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.pdb
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\TeaMaking.genruntimeconfig.cache
+C:\Users\212226\Source\Repos\OrderTea-Again-\TeaMaking\obj\Debug\net7.0\ref\TeaMaking.dll

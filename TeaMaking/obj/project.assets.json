@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\212226\\source\\repos\\TeaMaking\\TeaMaking\\TeaMaking.csproj",
+      "projectUniqueName": "C:\\Users\\212226\\Source\\Repos\\OrderTea-Again-\\TeaMaking\\TeaMaking.csproj",
       "projectName": "TeaMaking",
-      "projectPath": "C:\\Users\\212226\\source\\repos\\TeaMaking\\TeaMaking\\TeaMaking.csproj",
+      "projectPath": "C:\\Users\\212226\\Source\\Repos\\OrderTea-Again-\\TeaMaking\\TeaMaking.csproj",
       "packagesPath": "C:\\Users\\212226\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\212226\\source\\repos\\TeaMaking\\TeaMaking\\obj\\",
+      "outputPath": "C:\\Users\\212226\\Source\\Repos\\OrderTea-Again-\\TeaMaking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
